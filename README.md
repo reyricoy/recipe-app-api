@@ -1,1 +1,1 @@
-recipe-app-api
+Make an Recipe API REST With django using Docker 
